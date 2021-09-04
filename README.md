@@ -5,7 +5,8 @@
 
 ## 成品工具
 - [login-DLUT-LingShui](https://github.com/YuanyeMa/login-DLUT-LingShui): 登陆大连理工大学校园网的脚本
-- [DLUT-library-auto-reservation](https://github.com/ShuaichiLi/DLUT-library-auto-reservation) 大连理工大学图书馆自动预约座位小程序
+- [DLUT-library-auto-reservation](https://github.com/ShuaichiLi/DLUT-library-auto-reservation): 大连理工大学图书馆自动预约座位小程序
+- [RSSHub-大学通知-大连理工大学](https://docs.rsshub.app/university.html#da-lian-li-gong-da-xue): 大工各官网 RSS. 另一个维护[更及时的实例](https://rsshub.beautyyu.one/)
 
 ## 基础工具
 - [DLUT-login](https://github.com/BeautyYuYanli/DLUT-login): 使用 python 或 javascript 登陆大连理工大学统一认证系统和 webvpn 系统
