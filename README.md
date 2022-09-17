@@ -1,3 +1,8 @@
+# !! 本项目已移至 [NAOSI-DLUT/dlut-survival-tools](https://github.com/NAOSI-DLUT/dlut-survival-tools)
+本仓库不再接收更新
+
+---
+
 # dlut-survival-tools
 与大连理工大学相关的工具收集
 
